@@ -1,0 +1,15 @@
+Enquiry
+Format: DateTime	CustID	ProductID
+Short note about product
+[Note: Each separated by tab (\t)]
+
+Order
+Format: DateTime	CustID	OrderID	DeliveryDate	ProductID
+Quantity	Price	Total
+[Note: Each separate by tab (\t)]
+
+Return
+Format: DateTime	CustID
+ProductID	Price	Quantity	RefID	PickUpDate
+Note
+[Note: Each separate by tab (\t)]

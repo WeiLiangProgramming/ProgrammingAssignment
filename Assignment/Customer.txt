@@ -1,0 +1,9 @@
+Format: CustID	Name	Address	Date Of Birth
+[Note: Each separated by tab (\t)]
+0001	James Wong	25,USJ 15/2F	15-6-1993
+0002	Wong Kay Ming	19, USJ 14/3F	22-11-1975
+0003	Lee Kai Ting	2, USJ 5/1D	1-1-1964
+0004	Chong Lee Wen	4, USJ 7/2F	5-12-1952
+0005	Chee Kai Wen	45, USJ 3/4G	12-10-1983
+0006	Lee Hui Wen	14, USJ 20/4D	12-6-1962
+0007	Ooi Wei Liang	24, USj 14/1E	22-6-1996
